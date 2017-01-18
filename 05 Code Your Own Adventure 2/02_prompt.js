@@ -1,0 +1,1 @@
+var user = prompt("You're walking down the trail when a troll appears. He demands you pay the troll toll to cross the bridge or there will be a price to pay. Do you PAY the toll, TURN back and run, or FIGHT the troll?");
